@@ -1,0 +1,8 @@
+{
+  "person":
+  [
+  {"firstName" :"Mert", "lastName":"Ayhan", "age": 22},
+  {"firstName" :"Caner", "lastName":"Yay", "age": 22},
+  {"firstName" :"Sıla", "lastName":"Kenan", "age": 19}
+  ]
+}
